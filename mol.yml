@@ -1,4 +1,3 @@
-name: mol
 channels:
   - pytorch
   - nvidia
@@ -273,4 +272,3 @@ dependencies:
       - pytraj==2.0.6
       - sander==22.0
       - zipp==3.17.0
-prefix: /home/leh531/miniconda3/envs/mol
